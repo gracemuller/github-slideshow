@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+me:
+myself
+and I
+I wanna dance with somebody
 ---
-Your text
-Use the left arrow to go back!
